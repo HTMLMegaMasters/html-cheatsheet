@@ -1,2 +1,3 @@
-# html-cheatsheet
-A CheatSheet to HTML
+# HTML Cheatsheet
+
+A Tutorial on learning HTML
