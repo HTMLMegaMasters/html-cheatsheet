@@ -1,3 +1,3 @@
 # HTML Cheatsheet
 
-A Tutorial on learning HTML
+A Tutorial on learning HTML which starts from Hello World.
